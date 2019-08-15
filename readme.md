@@ -18,5 +18,8 @@ To get the code:
 * `git clone git@github.com:sumatrapdfreader/sumatrapdf.git`
 
 Open `vs2017/SumatraPDF.sln` when using Visual Studio 2017
+if use visual studio 2019 to compile
+modify v140/v140_xp to v142 in vs2015/*.vcxproj files
+
 
 [![Build status](https://ci.appveyor.com/api/projects/status/tesjtgmpy26uf8p7?svg=true)](https://ci.appveyor.com/project/kjk/sumatrapdf)
